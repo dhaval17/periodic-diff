@@ -1,0 +1,19 @@
+{
+  "name": "periodic-diff",
+  "version": "1.0.0",
+  "description": "Checks Periodically of Any Difference Occurred in File",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhaval17/periodic-diff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhaval17/periodic-diff/issues"
+  },
+  "homepage": "https://github.com/dhaval17/periodic-diff#readme"
+}
